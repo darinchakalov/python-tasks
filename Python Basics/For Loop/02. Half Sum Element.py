@@ -18,5 +18,5 @@ if max_num == max_sum - max_num:
     print(f'Sum = {max_sum - max_num}')
 
 else:
-    print('No')
+    print('No ')
     print(f'Diff = {abs(max_num - (max_sum - max_num))}')
